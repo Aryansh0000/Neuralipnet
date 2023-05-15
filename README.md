@@ -36,3 +36,6 @@ This implementation of LipNet is released under the MIT License. Please see the 
 This implementation is based on the work of Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, and Nando de Freitas. The implementation by Nick Bourdakos was used as a starting point for this repository.
 
 
+![Output](https://github.com/htrap1211/Neuralipnet/assets/72022772/be5e2527-53ff-4a43-815b-3e0976666f10)
+
+
